@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CommonItem/MyHomeButton.qml</file>
+        <file>CommonItem/BaseScreen.qml</file>
+        <file>Time.js</file>
+        <file>setting.png</file>
+        <file>video.png</file>
+        <file>music.png</file>
+        <file>QmlLanguage_VietNamese.qm</file>
+        <file>QmlLanguage_English.qm</file>
+    </qresource>
+</RCC>

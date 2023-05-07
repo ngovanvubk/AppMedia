@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CommonItem/BaseScreen.qml</file>
+        <file>CommonItem/ButtonLabel.qml</file>
+        <file>CommonItem/MyButton.qml</file>
+        <file>CommonItem/Time.js</file>
+        <file>Icon/back.png</file>
+        <file>Icon/home.png</file>
+        <file>Icon/minus.png</file>
+        <file>Icon/plus.png</file>
+        <file>Screens/MusicPlayBackScreen.qml</file>
+        <file>Icon/list.png</file>
+        <file>Screens/MusicListScreen.qml</file>
+        <file>Icon/prev.png</file>
+        <file>Icon/play.png</file>
+        <file>Icon/next.png</file>
+        <file>Icon/pause.png</file>
+        <file>CommonItem/Delegate.qml</file>
+        <file>CommonItem/Style.qml</file>
+        <file>Icon/Playing.png</file>
+        <file>Image/album_art.png</file>
+    </qresource>
+</RCC>

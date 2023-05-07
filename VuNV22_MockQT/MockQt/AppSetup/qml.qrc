@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CommonItem/MyButton.qml</file>
+        <file>Icon/back.png</file>
+        <file>Icon/home.png</file>
+        <file>CommonItem/BaseScreen.qml</file>
+        <file>CommonItem/Time.js</file>
+        <file>CommonItem/ButtonLabel.qml</file>
+        <file>Feature/SelectLanguage.qml</file>
+        <file>Feature/AdjustVolume.qml</file>
+        <file>Icon/minus.png</file>
+        <file>Icon/plus.png</file>
+        <file>QmlLanguage_VietNamese.qm</file>
+        <file>QmlLanguage_English.qm</file>
+    </qresource>
+</RCC>
